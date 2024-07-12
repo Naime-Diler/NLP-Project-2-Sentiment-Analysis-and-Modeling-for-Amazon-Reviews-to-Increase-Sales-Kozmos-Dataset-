@@ -1,4 +1,4 @@
-# Project 2: Sentiment Analysis and Modeling for Amazon Reviews to Increase Sales (Kozmos Dataset)
+# NLP-Project 2: Sentiment Analysis and Modeling for Amazon Reviews to Increase Sales (Kozmos Dataset)
 
 ## Projektübersicht
 Kozmos ist ein Unternehmen, das Heimtextilien und Alltagskleidung herstellt und über Amazon verkauft. Um die Kundenzufriedenheit zu verbessern und die Verkaufszahlen zu steigern, wurde ein Sentiment-Analyse-Projekt durchgeführt. Das Ziel war es, Kundenbewertungen zu analysieren, Produktmerkmale auf Basis von Feedback zu verbessern und die Kundenbindung zu stärken.
