@@ -3,8 +3,16 @@
 ## Projektübersicht
 Kozmos ist ein Unternehmen, das Heimtextilien und Alltagskleidung herstellt und über Amazon verkauft. Um die Kundenzufriedenheit zu verbessern und die Verkaufszahlen zu steigern, wurde ein Sentiment-Analyse-Projekt durchgeführt. Das Ziel war es, Kundenbewertungen zu analysieren, Produktmerkmale auf Basis von Feedback zu verbessern und die Kundenbindung zu stärken.
 
-## Datenquelle
-Die Daten für dieses Projekt stammen aus der Excel-Datei amazon.xlsx, die Bewertungen zu einer bestimmten Produktgruppe enthält. Jede Bewertung umfasst den Haupttext, den Titel, die Sternebewertung und die Anzahl der Nutzer, die die Bewertung als hilfreich markiert haben.
+## Datengeschichte
+Der Datensatz enthält Bewertungen zu einer bestimmten Produktgruppe, einschließlich der eigentlichen Bewertung, des Titels der Bewertung, der Anzahl der Sterne und der Anzahl der Nutzer, die die Bewertung als hilfreich markiert haben.
+
+Review: Bewertung des Produkts
+
+Title: Titel oder Zusammenfassung der Bewertung
+
+Helpful: Anzahl der Personen, die die Bewertung als hilfreich empfunden haben
+
+Star: Anzahl der Sterne, die das Produkt erhalten hat
 
 ## Schritte für die Sentiment-Analyse
 ### 1. Datenimport und Vorverarbeitung:
