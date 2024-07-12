@@ -15,9 +15,7 @@ Der Datensatz enthält Bewertungen zu einer bestimmten Produktgruppe, einschlie�
 - **Star:** Anzahl der Sterne, die das Produkt erhalten hat
 
 ## Schritte für die Sentiment-Analyse
-### 1. Datenimport und Vorverarbeitung:
-
-- Die Daten wurden aus der Excel-Datei eingelesen und in einem DataFrame gespeichert.
+### 1. Vorverarbeitung:
   
 - Eine benutzerdefinierte Funktion text_preprocessing wurde entwickelt, um die Bewertungstexte vorzubereiten. Dies umfasste die Umwandlung von Text in Kleinbuchstaben, das Entfernen von Satzzeichen, Zahlen, Stoppwörtern und seltenen Wörtern sowie die Lemmatisierung.
 
