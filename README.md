@@ -62,4 +62,4 @@ Der Datensatz enthält Bewertungen zu einer bestimmten Produktgruppe, einschlie�
 - Einsatz von GridSearchCV zur Optimierung der Hyperparameter für das Random Forest Modell, um die Vorhersagegenauigkeit zu verbessern.
 
 ## Ergebnisse und Bewertung
-Die Modelle zeigten eine robuste Leistung bei der Klassifizierung der Sentiments von Kundenbewertungen, was Kozmos wertvolle Einblicke zur Verbesserung der Produktqualität und Kundenzufriedenheit liefert. Detaillierte Analysen der Ergebnisse einschließlich Visualisierungen und Modellbewertungen sind in den zugehörigen Code-Dateien und visuellen Ausgaben zu finden.
+Die Modelle zeigen eine robuste Leistung bei der Klassifizierung der Sentiments von Kundenbewertungen, was Kozmos wertvolle Einblicke zur Verbesserung der Produktqualität und Kundenzufriedenheit liefert. Es ist wichtig anzumerken, dass das Datenset unausgeglichen ist, was die Interpretation der Metriken wie Precision (Genauigkeit), Recall (Rückruf) und F1-Score beeinflussen kann. Detaillierte Analysen der Ergebnisse einschließlich Visualisierungen und Modellbewertungen sind in den zugehörigen Code-Dateien und visuellen Ausgaben zu finden.
