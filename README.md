@@ -33,6 +33,8 @@ Der Datensatz enthält Bewertungen zu einer bestimmten Produktgruppe, einschlie�
   
 - Kategorisierung jeder Bewertung als positiv oder negativ basierend auf den Compound-Scores und Hinzufügen einer sentiment_label-Spalte zum DataFrame.
 
+- Umwandlung des ursprünglich unsupervised learning Datasets in ein supervised learning Dataset durch die Erstellung der neuen Variablen df["sentiment_label"].
+
   
 ## Maschinelles Lernen
 ### 1. Datenaufteilung:
