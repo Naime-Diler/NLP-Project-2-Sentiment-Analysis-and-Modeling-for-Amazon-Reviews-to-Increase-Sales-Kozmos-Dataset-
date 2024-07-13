@@ -43,7 +43,7 @@ Der Datensatz enthält Bewertungen zu einer bestimmten Produktgruppe, einschlie�
   
 ### 2. Merkmalsrepräsentation - TF-IDF-Vektorisierung:
 
-- Erstellung von TF-IDF-Matrizen aus den Textdaten mithilfe von TfidfVectorizer. TF-IDF berücksichtigt die Wichtigkeit von Wörtern in einem Dokument relativ zu ihrer Häufigkeit in der gesamten Textsammlung.
+- Umwandlung der Textdaten in df["Review"] mit dem TfidfVectorizer in numerische Formate, damit Maschinenlernmodelle sie verarbeiten können. Der TfidfVectorizer erstellt TF-IDF-Matrizen aus den Textdaten, die die Wichtigkeit von Wörtern in einem Dokument relativ zu ihrer Häufigkeit in der gesamten Textsammlung berücksichtigen.
   
 ### 3. Modellierung - Logistische Regression:
 
